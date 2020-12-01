@@ -22,6 +22,8 @@ TWITTER_ACCESS_TOKEN_SECRET=
 
 ## Motivation
 
-This app is part of my [#100DaysOfCode challenge!]("https://twitter.com/ggangix/status/1328031248808349696" #100DaysOfCode challenge!")
+This app is part of my [#100DaysOfCode challenge!][1]
 
 ## Feel free to contribute.
+
+[1]: https://twitter.com/ggangix/status/1328031248808349696
